@@ -1,0 +1,8 @@
+<Bindings>
+  <Binding name="VULCANGRINDWATCH_TOGGLE" header="VULCANGRINDWATCH" category="ADDONS">
+    VulcanGrindWatch_ToggleWindow()
+  </Binding>
+  <Binding name="VULCANGRINDWATCH_PAUSE" category="ADDONS">
+    VulcanGrindWatch_TogglePause()
+  </Binding>
+</Bindings>

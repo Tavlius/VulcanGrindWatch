@@ -1,0 +1,22 @@
+## Interface: 16001
+## Title: Vulcan GrindWatch
+## Notes: Kills, XP and gold per hour for farming sessions, with duo sync. Display only - no automation.
+## Author: Tavlius
+## Version: @project-version@
+## IconTexture: Interface\AddOns\VulcanGrindWatch\Media\icon
+## AddonCompartmentFunc: VulcanGrindWatch_OnAddonCompartmentClick
+## AddonCompartmentFuncOnEnter: VulcanGrindWatch_OnAddonCompartmentEnter
+## AddonCompartmentFuncOnLeave: VulcanGrindWatch_OnAddonCompartmentLeave
+## SavedVariables: VulcanGrindWatchDB
+## SavedVariablesPerCharacter: VulcanGrindWatchCharDB
+
+Util.lua
+Settings.lua
+Core.lua
+Sync.lua
+Insights.lua
+UI.lua
+Export.lua
+Persist.lua
+Commands.lua
+SettingsUI.lua

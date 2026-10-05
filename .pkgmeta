@@ -1,0 +1,16 @@
+# BigWigs packager settings. The repository root is the add-on folder, so the zip
+# holds one VulcanGrindWatch/ folder; everything dev-only is left out.
+package-as: VulcanGrindWatch
+
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown
+
+ignore:
+  - tests
+  - ci
+  - media-src
+  - .github
+  - .pkgmeta
+  - .gitignore
+  - .gitattributes
