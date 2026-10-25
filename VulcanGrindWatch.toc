@@ -2,6 +2,8 @@
 ## Title: Vulcan GrindWatch
 ## Notes: Kills, XP and gold per hour for farming sessions, with duo sync. Display only - no automation.
 ## Author: Tavlius
+## X-Curse-Project-ID: 1765629
+## X-Wago-ID: kNMPmZGz
 ## Version: @project-version@
 ## IconTexture: Interface\AddOns\VulcanGrindWatch\Media\icon
 ## AddonCompartmentFunc: VulcanGrindWatch_OnAddonCompartmentClick
